@@ -17,11 +17,16 @@ Diskinizdeki dizin yapısını yukarıdaki ile karşılaştırarak kontrol edini
 Notes Day #1:
 ========================================
 1. JIT Compiler -> Client VM (C1), Server VM (C2)
+
    since Java 7 -> Tiered Compiler -> 5 Tier
+
                    3 Tier -> C1
                    4th Tier -> C2
+                   
    -XX:+TieredCompilation
+   
    -XX:-TieredCompilation
+   
 2. Garbage Collector
    G1GC (Garbage First) -> default Since Java E 9
 3. Class Loader 
