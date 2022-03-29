@@ -12,15 +12,17 @@ public class CalculateRequest {
 		return operation;
 	}
 
-	public void setOperation(Operation operation) {
-		this.operation = operation;
-	}
+//	public void setOperation(Operation operation) {
+//		System.err.println("CalculateRequest::setOperation");
+//		this.operation = operation;
+//	}
 
 	public double getLeft() {
 		return left;
 	}
 
 	public void setLeft(double left) {
+		System.err.println("CalculateRequest::setLeft");
 		this.left = left;
 	}
 
@@ -29,6 +31,7 @@ public class CalculateRequest {
 	}
 
 	public void setRight(double right) {
+		System.err.println("CalculateRequest::setRight");
 		this.right = right;
 	}
 
