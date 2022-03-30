@@ -5,6 +5,7 @@ import java.util.Observable;
 import java.util.Observer;
 import java.util.concurrent.TimeUnit;
 
+@SuppressWarnings("deprecation")
 public class StudyLegacyObserver {
 
 	public static void main(String[] args) {
@@ -31,6 +32,7 @@ public class StudyLegacyObserver {
 
 }
 
+@SuppressWarnings("deprecation")
 class TradeObservable extends Observable {
 
 	@Override
