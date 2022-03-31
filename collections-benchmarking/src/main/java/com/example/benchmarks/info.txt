@@ -1,0 +1,25 @@
+# Warmup Iteration   1: 209.528 ops/s
+# Warmup Iteration   2: 267.464 ops/s
+# Warmup Iteration   3: 209.574 ops/s
+# Warmup Iteration   4: 359.673 ops/s
+# Warmup Iteration   5: 292.768 ops/s
+Iteration   1: 424.268 ops/s
+Iteration   2: 507.136 ops/s
+Iteration   3: 523.435 ops/s
+Iteration   4: 547.116 ops/s
+Iteration   5: 605.583 ops/s
+
+ListBenchmark.addHead_ArrayDeque               thrpt    5   521.507 ± 253.896  ops/s
+ListBenchmark.addHead_ArrayDeque_fullCapacity  thrpt    5  1007.702 ± 573.402  ops/s
+ListBenchmark.addHead_ArrayList                thrpt    5     0.650 ±   0.484  ops/s
+ListBenchmark.addHead_ArrayList_fullCapacity   thrpt    5     0.746 ±   0.492  ops/s
+ListBenchmark.addHead_FastList                 thrpt    5     0.466 ±   0.108  ops/s
+ListBenchmark.addHead_FastList_FullCapacity    thrpt    5     0.720 ±   0.377  ops/s
+ListBenchmark.addHead_LinkedList               thrpt    5   340.539 ± 331.427  ops/s
+ListBenchmark.addTail_ArrayDeque               thrpt    5   400.145 ± 573.084  ops/s
+ListBenchmark.addTail_ArrayDeque_fullCapacity  thrpt    5  1040.503 ± 800.128  ops/s
+ListBenchmark.addTail_ArrayList                thrpt    5   683.712 ± 514.071  ops/s
+ListBenchmark.addTail_ArrayList_fullCapacity   thrpt    5   850.254 ± 264.504  ops/s
+ListBenchmark.addTail_FastList                 thrpt    5   659.356 ± 352.003  ops/s
+ListBenchmark.addTail_FastList_FullCapacity    thrpt    5  1151.413 ± 777.516  ops/s
+ListBenchmark.addTail_LinkedList               thrpt    5   586.896 ± 319.978  ops/s
