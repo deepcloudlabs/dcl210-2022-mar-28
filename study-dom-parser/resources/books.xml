@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="listBooks.xsl"?>
+<katalog>
+    <kitap kod="1">
+        <başlık>Varlık ve Hiçlik : Fenomenolojik Ontoloji Denemesi</başlık>
+        <yazar>Jean Paul Sartre</yazar>
+        <çevirmenler>
+            <çevirmen>Turhan Ilgaz</çevirmen>
+            <çevirmen>Gaye Çankaya Eksen</çevirmen>
+        </çevirmenler>
+        <yayın_evi>İthaki</yayın_evi>
+        <yıl>2009</yıl>
+        <sayfa>783</sayfa>
+        <fiyat>49</fiyat>
+    </kitap>
+    <kitap kod="2">
+        <başlık>Steve Jobs</başlık>
+        <yazar>Walter Isaacson</yazar>
+        <çevirmenler>
+            <çevirmen>Dost Körpe</çevirmen>
+        </çevirmenler>
+        <yayın_evi>Domingo</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>540</sayfa>
+        <fiyat>32</fiyat>
+    </kitap>
+    <kitap kod="3">
+        <başlık>Prag Mezarlığı</başlık>
+        <yazar>Umberto Eco</yazar>
+        <çevirmenler>
+            <çevirmen>Eren Yücesan Cendey</çevirmen>
+        </çevirmenler>
+        <yayın_evi>Doğan Kitap</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>496</sayfa>
+        <fiyat>28</fiyat>
+    </kitap>
+    <kitap kod="4">
+        <başlık>Mavi Köpeğin Gözleri</başlık>
+        <yazar>Gabriel Garcia Marquez</yazar>
+        <çevirmenler>
+            <çevirmen>Emrah İmre</çevirmen>
+        </çevirmenler>
+        <yayın_evi>Can</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>128</sayfa>
+        <fiyat>9.50</fiyat>
+    </kitap>        
+    <kitap kod="5">
+        <başlık>Gizli Anıların Yolcusu</başlık>
+        <yazar>Ayşe Kulin</yazar>
+        <yayın_evi>Everest</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>432</sayfa>
+        <fiyat>19</fiyat>
+    </kitap> 
+    <kitap kod="6">
+        <başlık>Kabil</başlık>
+        <yazar>Jose Saramago</yazar>
+        <çevirmenler>
+            <çevirmen>Işık Ergüden</çevirmen>
+        </çevirmenler>        
+        <yayın_evi>Kırmızı Kedi</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>152</sayfa>
+        <fiyat>13.5</fiyat>
+    </kitap> 
+    <kitap kod="7">
+        <başlık>12 Eylül 1980 Akıl Tutulması</başlık>
+        <yazar>Kadir Can</yazar>
+        <yayın_evi>Boyut Publishing</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>263</sayfa>
+        <fiyat>39</fiyat>
+    </kitap>   
+    <kitap kod="8">
+        <başlık>Karatay Diyeti'yle Yaşam Boyu Sağlık</başlık>
+        <yazar>Canan Efendigil Karatay</yazar>
+        <yayın_evi>Hayykitap</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>263</sayfa>
+        <fiyat>18</fiyat>
+    </kitap> 
+    <kitap kod="9">
+        <başlık>Benim Adım Kırmızı</başlık>
+        <yazar>Orhan Pamuk</yazar>
+        <yayın_evi>İletişim Yayınları</yayın_evi>
+        <yıl>1998</yıl>
+        <sayfa>472</sayfa>
+        <fiyat>20</fiyat>
+    </kitap>
+    <kitap kod="10">
+        <başlık>Kara Kitap</başlık>
+        <yazar>Orhan Pamuk</yazar>
+        <yayın_evi>İletişim Yayınları</yayın_evi>
+        <yıl>1999</yıl>
+        <sayfa>440</sayfa>
+        <fiyat>21</fiyat>
+    </kitap>
+    <kitap kod="11">
+        <başlık>Böyle Bir Sevmek</başlık>
+        <yazar>Attila İlhan</yazar>
+        <yayın_evi>İş Bankası Kültür Yayınları</yayın_evi>
+        <yıl>2004</yıl>
+        <sayfa>168</sayfa>
+        <fiyat>5</fiyat>
+    </kitap>
+    <kitap kod="12">
+        <başlık>Ayrılık Sevdaya Dahil</başlık>
+        <yazar>Attila İlhan</yazar>
+        <yayın_evi>İş Bankası Kültür Yayınları</yayın_evi>
+        <yıl>2003</yıl>
+        <sayfa>110</sayfa>
+        <fiyat>15</fiyat>
+    </kitap>
+    <kitap kod="13">
+        <başlık>000Kitap : Dokunan Yanar</başlık>
+        <yazar>Ahmet Şık</yazar>
+        <yayın_evi>Postacı Yayınevi</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>382</sayfa>
+        <fiyat>18</fiyat>
+    </kitap>   
+    <kitap kod="14">
+        <başlık>Kültür ve Emperyalizm</başlık>
+        <yazar>Edward W. Said </yazar>
+        <çevirmenler>
+            <çevirmen>Necmiye Alpay</çevirmen>
+        </çevirmenler>        
+        <yayın_evi>Hill</yayın_evi>
+        <yıl>2010</yıl>
+        <sayfa>540</sayfa>
+        <fiyat>29</fiyat>
+    </kitap>     
+</katalog>

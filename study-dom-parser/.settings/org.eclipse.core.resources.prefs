@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/example/domain/Kitap.java=UTF-8
+encoding//src/com/example/handler/GenericHandler.java=UTF-8
+encoding//src/com/example/jaxb/Circle.java=UTF-8
+encoding//src/com/example/use/UseCityHandler.java=UTF-8
+encoding//src/com/example/use/UseGenericMovieHandler.java=UTF-8
+encoding//src/com/example/use/UseKitapHandler.java=UTF-8
+encoding//src/com/example/use/UseMovieHandler.java=UTF-8
+encoding//src/com/example/use/UseMovieHandlerList.java=UTF-8

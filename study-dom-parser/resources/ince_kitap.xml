@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/xsl" href="listBooks.xsl"?><katalog>
+    
+    
+    
+    <kitap kod="4">
+        <başlık>Mavi Köpeğin Gözleri</başlık>
+        <yazar>Gabriel Garcia Marquez</yazar>
+        <çevirmenler>
+            <çevirmen>Emrah İmre</çevirmen>
+        </çevirmenler>
+        <yayın_evi>Can</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>128</sayfa>
+        <fiyat>9.50</fiyat>
+    </kitap>        
+     
+    <kitap kod="6">
+        <başlık>Kabil</başlık>
+        <yazar>Jose Saramago</yazar>
+        <çevirmenler>
+            <çevirmen>Işık Ergüden</çevirmen>
+        </çevirmenler>        
+        <yayın_evi>Kırmızı Kedi</yayın_evi>
+        <yıl>2011</yıl>
+        <sayfa>152</sayfa>
+        <fiyat>13.5</fiyat>
+    </kitap> 
+       
+     
+    
+    
+    <kitap kod="11">
+        <başlık>Böyle Bir Sevmek</başlık>
+        <yazar>Attila İlhan</yazar>
+        <yayın_evi>İş Bankası Kültür Yayınları</yayın_evi>
+        <yıl>2004</yıl>
+        <sayfa>168</sayfa>
+        <fiyat>5</fiyat>
+    </kitap>
+    <kitap kod="12">
+        <başlık>Ayrılık Sevdaya Dahil</başlık>
+        <yazar>Attila İlhan</yazar>
+        <yayın_evi>İş Bankası Kültür Yayınları</yayın_evi>
+        <yıl>2003</yıl>
+        <sayfa>110</sayfa>
+        <fiyat>15</fiyat>
+    </kitap>
+       
+         
+</katalog>

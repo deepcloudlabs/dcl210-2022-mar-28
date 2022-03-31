@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/circle" xmlns:tns="http://www.example.org/circle" elementFormDefault="qualified">
+<xsd:element name="circle" type="tns:CircleType"/>
+<xsd:complexType name="CircleType">
+  <xsd:sequence>
+    <xsd:element name="x" type="xsd:integer"/>
+    <xsd:element name="y" type="xsd:integer"/>
+    <xsd:element name="radius" type="xsd:positiveInteger"/>
+  </xsd:sequence>
+  <xsd:attribute name="color" type="xsd:string"/>
+</xsd:complexType>
+
+</schema>
